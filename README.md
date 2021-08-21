@@ -13,8 +13,7 @@ I am always on the lookout for new projects to work on and new people to collabo
 
 <p>&nbsp;  </p>
 <p>&nbsp;  </p>
-<p>&nbsp;  </p>
-<p>&nbsp;  </p>
+
 
 
 ## Tech Stack
