@@ -33,7 +33,6 @@ I am always on the lookout for new projects to work on and new people to collabo
 <a href="https://getbootstrap.com" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 </a>
-
 <a href="https://tailwindcss.com/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
 </a>
@@ -54,25 +53,16 @@ I am always on the lookout for new projects to work on and new people to collabo
 <a href="https://expressjs.com" target="_blank"> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="express" width="40" height="40"/> 
 </a>
-<a href="https://www.figma.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-</a>
 <a href="https://firebase.google.com/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
 </a>
-<a href="https://git-scm.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a>
+
+
 <a href="https://graphql.org" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
 </a>
-<a href="https://heroku.com" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-</a>
-</a>
-<a href="https://www.mongodb.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-</a>
+
+
 <a href="https://nodejs.org" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 </a>
@@ -87,10 +77,25 @@ I am always on the lookout for new projects to work on and new people to collabo
 </a>
 
 ### Database 
+<a href="https://www.mongodb.com/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+</a>
 
 ### Hosting
 
+<a href="https://heroku.com" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
+</a>
+
 ### Tools
+
+<a href="https://www.figma.com/" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+</a>
+
+<a href="https://git-scm.com/" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+</a>
 
 </p>
 
