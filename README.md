@@ -3,7 +3,7 @@
 ## About Me
 
 <p>
-     .. I am a student based out of india, with a passionate intrest for web development and programming.
+     ..1 I am a student based out of india, with a passionate intrest for web development and programming.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
