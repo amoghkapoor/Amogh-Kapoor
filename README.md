@@ -34,6 +34,10 @@ I am always on the lookout for new projects to work on and new people to collabo
 <a href="https://getbootstrap.com" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 </a> 
+<a href="https://material-ui.com" target="_blank"> 
+<img src="https://material-ui.com/static/logo.png" alt="bootstrap" width="40" height="40"/>
+</a>
+     
 </p>
      
   #### Backend
