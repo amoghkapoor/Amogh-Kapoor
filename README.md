@@ -1,12 +1,12 @@
 <h1 align="center"> Hey there, I'm Amogh Kapoor <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 
+## 👨🏻‍💻 About Me
+
+
+Welcome to my Github page. I am a high school student based out of India, curently pursuing PCM (Physics, Chemistry, Maths) with Economics from Apeejay School, Nerul. I am a passionate self-learner with a profound intrest for web and app development. 
+
 <img height="100px" width="auto" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Programing GIF"/>
 
-## About Me
-
-<p>
-     Welcome to my Github page. I am a high school student based out of India, curently pursuing PCM (Physics, Chemistry, Maths) with Economics from Apeejay School, Nerul. I am a passionate self-learner with a profound intrest for web and app development. 
-</p>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
   
