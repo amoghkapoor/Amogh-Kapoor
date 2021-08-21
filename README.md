@@ -3,7 +3,7 @@
 ## 👨🏻‍💻 About Me
 
 
-Welcome to my Github page. I am a high school student based out of India, curently pursuing PCM (Physics, Chemistry, Maths) with Economics from Apeejay School, Nerul. I am a passionate self-learner with a profound intrest for web and app development. 
+# Welcome to my Github page. I am a high school student based out of India, curently pursuing PCM (Physics, Chemistry, Maths) with Economics from Apeejay School, Nerul. I am a passionate self-learner with a profound intrest for web and app development. 
 
 <img align="right" height="300px" width="auto" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Programing GIF"/>
 
