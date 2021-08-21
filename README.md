@@ -22,8 +22,6 @@ I am always on the lookout for new projects to work on and new people to collabo
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
      
    ### Frontend
-* * *
-__________
 <p align="left">
 <a href="https://www.w3schools.com/css/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
