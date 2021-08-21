@@ -1,6 +1,6 @@
 <h1 align="center"> Hey there, I'm Amogh Kapoor <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 
-<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Programing GIF"/>
+<img height="100px" width="auto" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Programing GIF"/>
 
 ## About Me
 
