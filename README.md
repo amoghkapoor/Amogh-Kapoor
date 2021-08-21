@@ -5,8 +5,9 @@
 
 Welcome to my Github page. I am a high school student based out of India, curently pursuing PCM (Physics, Chemistry, Maths) with Economics from Apeejay School, Nerul. I am a passionate self-learner with a profound intrest for web and app development. 
 
-<img height="100px" width="auto" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Programing GIF"/>
+<img align="left" height="300px" width="auto" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Programing GIF"/>
 
+I am always on the lookout for new projects to work on and new people to collaborate with. Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project. Visit my DEV.to page.
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
   
