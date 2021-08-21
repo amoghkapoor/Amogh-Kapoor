@@ -45,36 +45,28 @@ I am always on the lookout for new projects to work on and new people to collabo
 <a href="https://sass-lang.com" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
 </a>
+<a href="https://www.typescriptlang.org/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+</a>
 </p>
      
   ### Backend
      
 <p align="left">
+<a href="https://nodejs.org" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+</a>
 <a href="https://expressjs.com" target="_blank"> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="express" width="40" height="40"/> 
 </a>
 <a href="https://firebase.google.com/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
 </a>
-
-
 <a href="https://graphql.org" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
 </a>
 
 
-<a href="https://nodejs.org" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-</a>
-<a href="https://postman.com" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-</a>
-<a href="https://www.python.org" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-</a>
 
 ### Database 
 <a href="https://www.mongodb.com/" target="_blank"> 
@@ -92,9 +84,17 @@ I am always on the lookout for new projects to work on and new people to collabo
 <a href="https://www.figma.com/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 </a>
-
+<a href="https://postman.com" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+</a>
 <a href="https://git-scm.com/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+</a>
+     
+ ### Goal
+     
+     <a href="https://www.python.org" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a>
 
 </p>
