@@ -93,7 +93,7 @@ I am always on the lookout for new projects to work on and new people to collabo
      
  ### Goal
      
-     <a href="https://www.python.org" target="_blank"> 
+<a href="https://www.python.org" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a>
 
