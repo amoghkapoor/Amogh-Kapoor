@@ -5,7 +5,7 @@
 ## About Me
 
 <p>
-     ..1 I am a student based out of india, with a passionate intrest for web development and programming.
+     Welcome to my Github page. I am a high school student based out of India, curently pursuing PCM (Physics, Chemistry, Maths) with Economics from Apeejay School, Nerul. I am a passionate self-learner with a profound intrest for web and app development. 
 </p>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
