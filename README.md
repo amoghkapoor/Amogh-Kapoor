@@ -86,6 +86,12 @@ I am always on the lookout for new projects to work on and new people to collabo
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 </a>
 
+### Database 
+
+### Hosting
+
+### Tools
+
 </p>
 
 ![Amogh Kapoor's GitHub stats](https://github-readme-stats.vercel.app/api?username=amoghkapoor&count_private=true&show_icons=true&theme=tokyonight&border_color=#fff)
