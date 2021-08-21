@@ -11,7 +11,7 @@
 
 <h3 align="left">Tech Stack:</h3>
      
-     #### Frontend
+   #### Frontend
      
 <p align="left">
 
