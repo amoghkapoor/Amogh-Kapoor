@@ -1,4 +1,4 @@
-<h1 align="center"> Hey there, I'm Amogh Kapoor <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
+# Hey there, I'm Amogh Kapoor <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <h3 align="left">Languages and Tools:</h3>
      
@@ -13,7 +13,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 </a> 
 <a href="https://expressjs.com" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="express" width="40" height="40"/> 
 </a>
 <a href="https://www.figma.com/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
@@ -66,4 +66,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amoghkapoor&langs_count=10&layout=compact&theme=tokyonight&border_color=#fff)
 
+
+<a href="https://twitter.com/amoghkapoor6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amoghkapoor6" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amogh-kapoor-1838b2217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amogh kapoor" height="30" width="40" /></a>
+<a href="https://instagram.com/amogh.kapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amogh.kapoor" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCepPzIxWMF3Ct8ZBOoW49Sw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amoghkapoor" height="30" width="40" /></a>
 
