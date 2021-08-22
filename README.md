@@ -107,7 +107,11 @@ I am always on the lookout for new projects to work on and new people to collabo
 ## Connect with me
 
 <a href="https://twitter.com/amoghkapoor6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amoghkapoor6" height="30" width="40" /></a>
+&nbsp;  
 <a href="https://www.linkedin.com/in/amogh-kapoor-1838b2217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amogh kapoor" height="30" width="40" /></a>
+&nbsp;  
 <a href="https://instagram.com/amogh.kapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amogh.kapoor" height="30" width="40" /></a>
+&nbsp;  
 <a href="https://www.youtube.com/channel/UCepPzIxWMF3Ct8ZBOoW49Sw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amoghkapoor" height="30" width="40" /></a>
+&nbsp;  
 
