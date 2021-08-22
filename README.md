@@ -103,8 +103,9 @@ I am always on the lookout for new projects to work on and new people to collabo
 
 ![Amogh Kapoor's GitHub stats](https://github-readme-stats.vercel.app/api?username=amoghkapoor&count_private=true&show_icons=true&theme=tokyonight&border_color=#fff)
 
+<div align="right">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amoghkapoor&langs_count=10&layout=compact&theme=tokyonight&border_color=#fff)
-
+</div>
 ## Connect with me
 
 <a href="https://twitter.com/amoghkapoor6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amoghkapoor6" height="30" width="40" /></a>
