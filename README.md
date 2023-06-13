@@ -18,7 +18,6 @@ I am always on the lookout for new projects to work on and new people to collabo
 
 ## Tech Stack
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
      
    ### Frontend
 <p align="left">
