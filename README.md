@@ -77,6 +77,12 @@ I am always on the lookout for new projects to work on and new people to collabo
 <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
 </a>
 
+### Authentication
+
+<a href="" target="_blank">
+     <img src="http://jwt.io/img/logo-asset.svg" alt="JWT" width="40" height="40"/>
+</a>
+
 ### Tools
 
 <a href="https://www.figma.com/" target="_blank"> 
